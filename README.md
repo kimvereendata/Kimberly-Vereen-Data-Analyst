@@ -1,3 +1,6 @@
+🔗 Download Full Portfolio PDF (Hi-Res) [https://kimberlyvereendataportfolio.my.canva.site/42k](https://kimberlyvereendataportfolio.my.canva.site/42k)
+
+
 # 🏨 Hotel Revenue Intelligence Dashboard – Le Meridien Focus
 
 ## 📊 Project Overview
