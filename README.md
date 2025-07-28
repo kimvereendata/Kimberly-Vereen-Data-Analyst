@@ -120,4 +120,4 @@ Slicers: hotel_name and room_type
 Supporting table analyzing customer_segment by total nights
 
 🔍 Key Insight:
-Booking.com drives the highest room-night revenue (~$54K) but also leads in discount costs, indicating revenue is discount-dependent. In contrast, Direct bookings generate fewer nights (~$48K) with significantly lower discounts (~$45K), suggesting an opportunity to boost this cost-efficient channel through targeted promotions.
+Booking.com drives the highest room-night revenue at $54K but also leads in discount costs, indicating revenue is discount-dependent. In contrast, Direct bookings generate fewer nights at $48K with significantly lower discounts at $45K suggesting an opportunity to boost this cost-efficient channel through targeted promotions.
